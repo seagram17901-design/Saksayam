@@ -136,7 +136,7 @@ th{
 .modal-box{
   width:100%;
   max-width:450px;
-  max-height:90 vh;
+  max-height:90vh;
   overflow-y:auto;
   background:#fff;
   border-radius:20px;
@@ -177,10 +177,11 @@ th{
 }
 
 .qr-image{
-  width:280px;
+  width:250px;
   max-width:100%;
-  border-radius:20px;
-  box-shadow:0 5px 20px rgba(0,0,0,.08);
+  height:auto;
+  display:block;
+  margin: 0auto;
 }
 
 .bank-info p{
