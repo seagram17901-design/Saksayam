@@ -47,6 +47,9 @@ select{
   border-radius:12px;
   font-size:16px;
 }
+.p1{
+  color:red;
+}
 
 .device{
   background:#f9fafb;
