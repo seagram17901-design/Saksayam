@@ -133,14 +133,12 @@ th{
   z-index:999;
 }
 
-@media (max-width: 768px){
+.modal-box{
+  width: 90%;
+  max-width: 400px;
 
-  .modal-box{
-    width: 85%;
-    max-width: 300px;
-    padding: 15px;
-  }
-
+  padding: 20px;
+  border-radius: 20px;
 }
 
 .modal-header{
