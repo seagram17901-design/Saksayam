@@ -202,10 +202,6 @@ th{
   align-items: center;
 }
 
-.modal-box{
-  position: relative;
-}
-
 @keyframes popup{
   from{
     transform:scale(.95);
