@@ -133,12 +133,13 @@ th{
   z-index:999;
 }
 
-.modal-header{
-  display:flex;
-  justify-content:space-between;
-  align-items:center;
-  padding:20px 25px;
-  border-bottom:1px solid #eee;
+.modal-box{
+  width:100%;
+  max-width:850px;
+  background:#fff;
+  border-radius:20px;
+  overflow:hidden;
+  animation:popup .2s ease;
 }
 
 .modal-header{
